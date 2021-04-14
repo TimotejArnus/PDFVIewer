@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mea1hY3olyM0XLIOYqjKMcWOnTuRXOC9lNZT1uADNcTzBRD0RJTMOV259Mr2J9I2+AV9yPSRUjWg5+b45b2sYA==",
+  "success": true,
+  "projectFilePath": "D:\\Namizje\\Mape Namizja\\Projekti\\MESI\\PDFViewer\\PDFViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Timotej\\.nuget\\packages\\ironpdf\\2021.3.1\\ironpdf.2021.3.1.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\ironpdf.assets.rendering.universal\\22.0.0\\ironpdf.assets.rendering.universal.22.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\system.diagnostics.eventlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Timotej\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\system.serviceprocess.servicecontroller.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
